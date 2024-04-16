@@ -1,4 +1,4 @@
-Hi! My name is Karan Sonawane 😄
+Hi! My name is Karan Sonawane.
 ========================================================================================================================================
 
 🌍  I am a Front-End Developer based in India.
